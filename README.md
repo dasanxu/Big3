@@ -8,3 +8,15 @@
 
 <img src='https://img.shields.io/badge/Version-V0.0.1-green' style="float:left">  <img src='https://img.shields.io/badge/QQ群-1093019320-orange' style="float:left;margin-left:20px;">
 
+## 前言
+
+> 在开始之前，先简单介绍一下吧。
+>
+> 首先，这个名字，我想了很久。想来想去，索性就拿自己的小名了，哈哈哈。
+>
+> 现在来介绍一下这个助手能做些什么。目前，我已经集成了智能家居、网易云音乐、普通聊天等功能。
+
+## 演示
+
+<iframe height="400" width="600" src="//player.bilibili.com/player.html?aid=89979831&cid=153676351&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
